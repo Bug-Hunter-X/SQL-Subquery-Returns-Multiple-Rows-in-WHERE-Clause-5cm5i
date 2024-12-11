@@ -1,0 +1,1 @@
+The SQL query uses a subquery in the WHERE clause that returns more than one row, leading to a syntax error or unexpected results.  The query attempts to compare a single value with multiple values returned by the subquery without using an appropriate set operator like `IN` or `EXISTS`.
